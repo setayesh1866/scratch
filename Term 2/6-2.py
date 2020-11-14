@@ -1,22 +1,25 @@
-days = int(input("enter number of day"))
+days = int(input("enter number of day: "))
 
 if days == 1:
     print("saturday")
 
-if days == 2:
+elif days == 2:
     print("sunday")
 
-if days == 3:
+elif days == 3:
     print("monday")
 
-if days == 4:
+elif days == 4:
     print("tuesday")
 
-if days == 5:
+elif days == 5:
     print("wednesday")
 
-if days == 6:
+elif days == 6:
     print("thursday")
 
-if days == 7:
+elif days == 7:
     print("friday")
+
+else:
+    print ("you are typing wrong!!!")
