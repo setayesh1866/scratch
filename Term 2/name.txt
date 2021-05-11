@@ -1,0 +1,8 @@
+Name seta
+Last: pasand
+Age: 12
+*******************
+Name soli
+Last: mir
+Age: 30
+*******************

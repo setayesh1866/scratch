@@ -1,6 +1,6 @@
 import sys
 
-from . import pages
+from ussd import pages
 
 
 def page_0():
@@ -23,5 +23,3 @@ def page_1():
     print("################")
     p[replay]()
 
-def page_2():
-    pass
